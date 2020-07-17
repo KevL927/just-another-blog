@@ -19,7 +19,7 @@ module.exports = function(eleventyConfig) {
     }).toFormat("dd-MM-yy");
   });
 
-  // return {
-  //   pathPrefix: '/site/kevl927/you-n-i-blog'
-  // }
+  return {
+    pathPrefix: '/site/kevl927/you-n-i-blog'
+  }
 };
