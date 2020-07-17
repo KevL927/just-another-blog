@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: KevL927/you-n-i-blog
+  repo: KevL927/just-another-blog
   base_url: https://federalistapp.18f.gov
   auth_endpoint: external/auth/github
   preview_context: federalist/build
