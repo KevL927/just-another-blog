@@ -20,6 +20,6 @@ module.exports = function(eleventyConfig) {
   });
 
   return {
-    pathPrefix: '/site/kevl927/you-n-i-blog'
+    pathPrefix: '/site/kevl927/just-another-blog'
   }
 };
